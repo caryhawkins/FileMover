@@ -1,0 +1,6 @@
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\bin\Debug\FileMover.exe.config
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\bin\Debug\FileMover.exe
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\bin\Debug\FileMover.pdb
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\obj\Debug\FileMover.csprojResolveAssemblyReference.cache
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\obj\Debug\FileMover.exe
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\obj\Debug\FileMover.pdb

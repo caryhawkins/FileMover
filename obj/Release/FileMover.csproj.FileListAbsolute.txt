@@ -1,0 +1,5 @@
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\bin\Release\FileMover.exe.config
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\bin\Release\FileMover.exe
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\bin\Release\FileMover.pdb
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\obj\Release\FileMover.exe
+c:\users\caryhawkins\documents\visual studio 2013\Projects\FileMover\FileMover\obj\Release\FileMover.pdb
