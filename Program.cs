@@ -11,10 +11,10 @@ namespace FileMover
     {
         static void Main(string[] args)
         {
-            string sourceFile = @"C:\Users\caryhawkins\Desktop\OOWL_PH_ORDER_DOWN.RESP";
-            string destinationfile = @"C:\Users\caryhawkins\Desktop\Books\OOWL_PH_ORDER_DOWN" + DateTime.Now.ToString("dd_MM_YYYY_hhmm") + ".RESP";
-            string source2 = @"C:\Users\caryhawkins\Desktop\OOWL_PH_ORDER_DOWN.COMPL";
-            string destination2 = @"C:\Users\caryhawkins\Desktop\Books\OOWL_PH_ORDER_DOWN" + DateTime.Now.ToString("dd_MM_YYYY_hhmm") + ".COMPL";
+            string sourceFile = @"C:\IF_PROD\Z_orderD\OOWL_PH_ORDER_DOWN.RESP";
+            string destinationfile = @"C:\IF_PROD\Z_orderD\ResponseFiles\OOWL_PH_ORDER_DOWN" + DateTime.Now.ToString("dd_MM_YYYY_hhmm") + ".RESP";
+            string source2 = @"C:\IF_PROD\Z_orderD\OOWL_PH_ORDER_DOWN.COMPL";
+            string destination2 = @"C:\IF_PROD\Z_orderD\ResponseFiles\OOWL_PH_ORDER_DOWN" + DateTime.Now.ToString("dd_MM_YYYY_hhmm") + ".COMPL";
 
             //Check if Response file exists
             if (File.Exists(sourceFile))
